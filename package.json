@@ -1,0 +1,25 @@
+{
+  "name": "luckydraw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "apollo-server-express": "^3.13.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "pg": "^8.16.3"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "jest-mock": "^30.0.5",
+    "supertest": "^7.1.4"
+  }
+}
