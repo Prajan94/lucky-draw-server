@@ -103,8 +103,8 @@ CREATE TABLE players (
 - Clean, documented DB schema
 
 ## Installation & Run
-download server/luckydraw
-cd luckydraw
+git clone https://github.com/Prajan94/lucky-draw-server.git
+cd lucky-draw-server
 npm install
 
 ## Configure DB
